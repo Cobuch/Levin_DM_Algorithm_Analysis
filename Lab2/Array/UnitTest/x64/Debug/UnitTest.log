@@ -1,0 +1,32 @@
+﻿  UnitTest.cpp
+G:\ITMO\Algo\Lab2\Array\Array\MyArray.h(228,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\ITMO\Algo\Lab2\Array\Array\MyArray.h(217): message : во время компиляции функции-члена класс шаблон "int MyArray<std::string>::insert(int,const T &)"
+          with
+          [
+              T=std::string
+          ]
+G:\ITMO\Algo\Lab2\Array\UnitTest\UnitTest.cpp(48): message : выполняется компиляция ссылки на экземпляр шаблон функции "int MyArray<std::string>::insert(int,const T &)"
+          with
+          [
+              T=std::string
+          ]
+G:\ITMO\Algo\Lab2\Array\UnitTest\UnitTest.cpp(16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "MyArray<std::string>"
+G:\ITMO\Algo\Lab2\Array\Array\MyArray.h(211,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+G:\ITMO\Algo\Lab2\Array\Array\MyArray.h(203): message : во время компиляции функции-члена класс шаблон "int MyArray<std::string>::insert(const T &)"
+          with
+          [
+              T=std::string
+          ]
+G:\ITMO\Algo\Lab2\Array\UnitTest\UnitTest.cpp(17): message : выполняется компиляция ссылки на экземпляр шаблон функции "int MyArray<std::string>::insert(const T &)"
+          with
+          [
+              T=std::string
+          ]
+G:\ITMO\Algo\Lab2\Array\Array\MyArray.h(280,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+G:\ITMO\Algo\Lab2\Array\Array\MyArray.h(279): message : во время компиляции функции-члена класс шаблон "int MyArray<std::string>::size(void) const"
+G:\ITMO\Algo\Lab2\Array\UnitTest\UnitTest.cpp(137): message : выполняется компиляция ссылки на экземпляр шаблон функции "int MyArray<std::string>::size(void) const"
+G:\ITMO\Algo\Lab2\Array\Array\MyArray.h(287,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+G:\ITMO\Algo\Lab2\Array\Array\MyArray.h(286): message : во время компиляции функции-члена класс шаблон "int MyArray<int>::capacity(void) const"
+G:\ITMO\Algo\Lab2\Array\UnitTest\UnitTest.cpp(178): message : выполняется компиляция ссылки на экземпляр шаблон функции "int MyArray<int>::capacity(void) const"
+     Создается библиотека G:\ITMO\Algo\Lab2\Array\x64\Debug\UnitTest.lib и объект G:\ITMO\Algo\Lab2\Array\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> G:\ITMO\Algo\Lab2\Array\x64\Debug\UnitTest.dll
