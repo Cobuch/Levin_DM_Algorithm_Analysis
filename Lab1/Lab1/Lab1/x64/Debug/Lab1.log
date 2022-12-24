@@ -1,8 +1,0 @@
-﻿  Lab1.cpp
-G:\ITMO\Algo\Lab1\Lab1\Lab1\Lab1.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-G:\ITMO\Algo\Lab1\Lab1\Lab1\Lab1.cpp(118,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-G:\ITMO\Algo\Lab1\Lab1\Lab1\Lab1.cpp(219,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-G:\ITMO\Algo\Lab1\Lab1\Lab1\Lab1.cpp(220,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
-G:\ITMO\Algo\Lab1\Lab1\Lab1\Lab1.cpp(257): warning C4715: Hammurabi::startGame: значение возвращается не при всех путях выполнения
-G:\ITMO\Algo\Lab1\Lab1\Lab1\Lab1.cpp(99): warning C4715: Hammurabi::twoOpMenu: значение возвращается не при всех путях выполнения
-  Lab1.vcxproj -> G:\ITMO\Algo\Lab1\Lab1\x64\Debug\Lab1.exe
