@@ -1,0 +1,7 @@
+﻿  Dice.cpp
+G:\ITMO\Algo\Lab4\Dice\Dice\Dice.cpp(39,16): warning C4244: инициализация: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  Dice.vcxproj -> G:\ITMO\Algo\Lab4\Dice\x64\Debug\Dice.exe
