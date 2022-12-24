@@ -1,1 +1,1 @@
-# Levin_DM_Algorithm_Analysis
+# 2 лабораторная - Динамический массив
